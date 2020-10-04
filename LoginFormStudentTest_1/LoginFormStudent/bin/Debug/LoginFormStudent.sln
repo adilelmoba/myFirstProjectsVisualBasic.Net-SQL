@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "LoginFormStudent", "LoginFormStudent.exe", "{12C11244-D2FF-48E8-B914-BC78AB9F0340}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\h\Desktop\Visual Basic Project\LoginFormStudent\LoginFormStudent\bin\Debug\LoginFormStudent.exe
+		RemoteMachine = DESKTOP-VQQ5NVD
+		StartingDirectory = C:\Users\h\Desktop\Visual Basic Project\LoginFormStudent\LoginFormStudent\bin\Debug
+		Environment = Par défaut
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C11244-D2FF-48E8-B914-BC78AB9F0340}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A96FB6F-8CB2-4F9B-A2A7-9C2E94721F87}
+	EndGlobalSection
+EndGlobal
